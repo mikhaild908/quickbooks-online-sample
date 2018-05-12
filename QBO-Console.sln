@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QBO-Console", "QBO-Console\QBO-Console.csproj", "{CA1D314B-D1EE-486B-A210-B178295A1FAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA1D314B-D1EE-486B-A210-B178295A1FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1D314B-D1EE-486B-A210-B178295A1FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1D314B-D1EE-486B-A210-B178295A1FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1D314B-D1EE-486B-A210-B178295A1FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19298015-40EC-4553-BB55-EC60AC1C1978}
+	EndGlobalSection
+EndGlobal
